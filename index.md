@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## laminar ring
 
-You can use the [editor on GitHub](https://github.com/laminar-ring/laminar-ring.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Laminar ring is a metallic labyrinth seal consisting of multiple rings in a groove. laminar rings are used as sealing elements for rotating and static sealing applications. our laminar rings are produced in-house and are high quality.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In addition to laminar ring's outstanding sealing characteristics for rotating components, the low contact laminar rings with low friction produce a significant reduction of internal heat and wear, which qualifies laminar ring for high speed applications and applications in temperature and/or friction sensitive installations.
+
+For static sealing applications such as axial compensation at screwed exhaust manifold systems for internal combustion engines, exhaust gas re-circulation systems and power units with operating temperatures of up to +600°C, laminar rings will be manufactured from chrome nickel materials, which are spring and heat resistant in the laminar ring sealing area even at high temperatures.
+
 
 ### Markdown
 
